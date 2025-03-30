@@ -1,8 +1,6 @@
-DEVOPS-MONITOR PRO
+‼️DEVOPS-MONITOR PRO
 
-:hourglass: 
-
-A Microservices-Based Monitoring Dashboard 
+⏳ A Microservices-Based Monitoring Dashboard 
 ------------------------------------------------------------------------------------------------------------
 
 Backend (Java - Spring Boot) → Collects system metrics (CPU, memory, disk, network).
