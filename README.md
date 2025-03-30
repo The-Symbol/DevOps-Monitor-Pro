@@ -1,4 +1,4 @@
-:bangbang:DevOps-Monitor-Pro
+DEVOPS-MONITOR PRO
 
 :hourglass: 
 
